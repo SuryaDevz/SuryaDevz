@@ -21,11 +21,11 @@
 - 💰 Donate For Me [Saweria](https://github.com/Shsuryaresz/QRIS---SATU-UNTUK-SEMUA.git) 
 <p align="center"><img src="https://count.getloli.com/get/@Shsuryaresz-github-readme?theme=rule34" /></p>
 <p align="center">
-  <a href="https://instagram.com/suryaa_tzye"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/message/2YKSABPIE42IL1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://t.me/Suryaanjg"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtube.com/c/Suryaa-Md"><img src="Surya -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@Nazedev" /><br>
-  <a href="https://github.com/Shsuryaresz"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://instagram.com/vyxsur"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6283125395386"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://t.me/Suryaazv"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://youtube.com/c/vyzaadev"><img src="Surya -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@Nazedev" /><br>
+  <a href="https://github.com/SuryaDevz"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCl77jQD3Fp__z1oRxm-fA"><img src="https://img.shields.io/youtube/channel/subscribers/UCl77jQD3nSFp__z1oRxm-fA?style=social" /> <br>
   <a name=Shsuryaresz&label=VIEWS&style=flat-square&color=orange" />
 </p>
@@ -37,13 +37,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shsuryaresz&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shsuryaresz&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shsuryaresz&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<details>
-    <summary>&#127942 <b>GitHub Trophies</b></summary><br/>
-        
-![](https://github-profile-trophy.vercel.app/?username=Shsuryaresz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Shsuryaresz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
