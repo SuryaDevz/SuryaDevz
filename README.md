@@ -5,7 +5,7 @@
 ![suryadev](https://github.com/user-attachments/assets/bb7fd451-4063-4f7d-a74d-11760dbce6e7)
 
 <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=CV+DATA+ADATA+PRIBADI;RAMA+SURYA+GANTENG🗿"
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=CV+DATA+DATA+PRIBADI;RAMA+SURYA+GANTENG🗿"
             alt="Typing SVG"
         />
     </a>
