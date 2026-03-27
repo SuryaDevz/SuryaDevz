@@ -30,9 +30,6 @@
   <a name=Shsuryaresz&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
-### Spotify 🔭
-![Preview](https://tthn.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shsuryaresz&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shsuryaresz&theme=ocean_dark&hide_border=false)<br/>
